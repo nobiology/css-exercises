@@ -1,9 +1,9 @@
-p {
+.odd-numbered-elements {
     background-color: rgb(243, 111, 133);
     font-family: 'Verdana', 'DejaVu Sans', sans-serif;
 }
 
-.third-font-size {
+.third-element {
     font-size: 36px;
 }
 
