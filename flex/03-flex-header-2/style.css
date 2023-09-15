@@ -22,6 +22,11 @@ body {
   border-radius: 50%;
   width: 48px;
   height: 48px;
+  margin: 10px;
+}
+
+.notifications {
+  margin: 20px;
 }
 
 .logo {
@@ -29,6 +34,7 @@ body {
   font-size: 32px;
   font-weight: 900;
   font-style: italic;
+  margin: 5px 0 0 10px;
 }
 
 button {
@@ -48,6 +54,7 @@ a {
 ul {
   list-style-type: none;
   display: flex;
+  
 }
 
 .right-side-links {
@@ -58,4 +65,8 @@ ul {
 .left-side-links {
   display: flex;
   
+}
+
+li {
+  margin: 5px 10px 0 10px;
 }
