@@ -52,3 +52,7 @@ ul {
 .left-side-links {
   display: flex;
 }
+
+.right-side-links {
+  display: flex;
+}
