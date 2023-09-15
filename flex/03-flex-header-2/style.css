@@ -49,10 +49,12 @@ ul {
   display: flex;
 }
 
-.left-side-links {
-  display: flex;
-}
-
 .right-side-links {
   display: flex;
+  
+}
+
+.left-side-links {
+  display: flex;
+  
 }
