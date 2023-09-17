@@ -12,6 +12,7 @@ img {
   font-weight: 900;
   display: flex;
   justify-content: center;
+  margin-bottom: 32px;
 }
 
 /* do not edit this footer */
@@ -27,6 +28,29 @@ img {
   background: #eee;
 }
 
-.plant-info {
+.plant-elements {
   display: flex;
+  flex-direction: column;
+
 }
+
+.plant-icons {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.plant-text {
+  display: flex;
+  justify-content: space-evenly;
+  
+}
+
+img {
+  margin: 0 52px;
+}
+
+.text {
+  width: 200px;
+  text-align: center;
+}
+
