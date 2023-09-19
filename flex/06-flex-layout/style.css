@@ -37,5 +37,5 @@ input {
 .footer {
   display: flex;
   justify-content: space-between;
-
+  background-color: rgb(209, 209, 209);
 }
