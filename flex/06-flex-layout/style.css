@@ -48,3 +48,11 @@ a {
   background-color: rgb(209, 209, 209);
 }
 
+.right-links {
+  display: flex;
+}
+
+.left-links {
+  display: flex;
+}
+
