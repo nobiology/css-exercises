@@ -34,8 +34,13 @@ input {
   justify-content: space-between;
 }
 
+ul {
+  list-style-type: none;
+}
+
 .footer {
   display: flex;
   justify-content: space-between;
   background-color: rgb(209, 209, 209);
 }
+
