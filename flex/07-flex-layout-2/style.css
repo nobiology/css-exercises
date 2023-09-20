@@ -38,3 +38,8 @@ body {
   flex: 1 1 auto;
 }
 
+.content {
+  display: flex;
+  margin: 10px;
+  gap: 10px;
+}
