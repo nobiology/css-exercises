@@ -23,6 +23,7 @@ body {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
+  
 }
 
 .card {
@@ -34,4 +35,6 @@ body {
 
 .middle {
   display: flex;
+  flex: 1 1 auto;
 }
+
